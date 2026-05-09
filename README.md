@@ -260,4 +260,4 @@ Test results are also logged to `app/build/reports/tests/unit-test-details.txt` 
 
 ## License
 
-*License information to be added.*
+Refer to [LICENSE]
